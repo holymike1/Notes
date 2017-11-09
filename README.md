@@ -1,2 +1,2 @@
 # html-notes
-html notes in an html file
+notes in an html file, CSS file for the notes is here too
